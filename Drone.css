@@ -1,4 +1,7 @@
-
+body {
+	background-color: black;
+	font-family:Arial;
+}
 li a:hover {
 	color: gray;
 	background-color: 555;
