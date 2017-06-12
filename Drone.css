@@ -12,15 +12,14 @@ li {
 }
 a {
 	display: inline;
-	padding: 1% 2%;
 	border: 1%; 
 	background-color: black;
 	font-family: arial;
-	font-size: 1.5vw; 
+	font-size: 2vw; 
     text-decoration: none;	
 	}
 ul {
-	padding: 1%;
+	padding: 1% 0%;
 	background-color: black;
 	border: 1% gray;
 }
