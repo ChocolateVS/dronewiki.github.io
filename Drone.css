@@ -1,6 +1,4 @@
-img {
-	horizontal-align:center;
-}
+
 body {
 	background-color: black;
 	font-family:Arial;
@@ -86,9 +84,9 @@ p{
 text-align: center;
 }
 #vid {
-position:absolute; left: 28%; top: 100%;
+position:absolute; left:28%; top: 100%;
 }
-<<<<<<< HEAD
+
 .img {
 	width:20%;
 }
