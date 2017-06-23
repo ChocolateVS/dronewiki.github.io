@@ -86,38 +86,38 @@ p{
 text-align: center;
 }
 #vid {
-position:absolute; left:28%; top: 110%;
+position:absolute; left:26%; top: 110%;
 }
 
 .img {
 	width:20%;
 }
 h3 {
-    position: absolute; top:56%; left:41%;
+    position: absolute; top:56%; left:44%;
 	color:white;
     font-size:2vw;
 }
 h4{
-	position: absolute; left: 29%; top:63%;
+	position: absolute; left: 35%; top:63%;
 	color: white;
 	font-size:1vw;
 	text-align:center;
 }
 h5{
-	position: absolute; left: 37.5%; top:70%;
+	position: absolute; left: 41%; top:70%;
 	color: white;
 	text-align:center;
 	font-size:1.3vw;
 }
 h6{
-	position: absolute; top:87%; left: 28%;
+	position: absolute; top:87%; left: 34%;
 	color: white;
 	font-size:1vw;
 	text-align:center
 }
 
 p{
-	position:absolute; left: 42%; top:75%;
+	position:absolute; left: 44%; top:75%;
 	color: white;
 	font-size:1.2vw;
 }
