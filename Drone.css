@@ -71,7 +71,10 @@ li.dropdown {
 .dropdown:hover .dropdown-content {
     display: block;
 }
-
+h1 {
+color:white;
+font-size:2vw;	
+}
 .drone {
 	position: absolute; left: 2%;
 }
