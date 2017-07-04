@@ -87,6 +87,7 @@ text-align: center;
 }
 #vid {
 position:absolute; left:28%; top: 110%;
+float:bottom;
 }
 
 .img {
@@ -114,4 +115,5 @@ p{
 h1 {
 	color:white;
 	text-align: center;
+	font-size:4vw;
 }
